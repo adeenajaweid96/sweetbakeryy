@@ -1,0 +1,219 @@
+nav{
+    display: flex;
+    height:200px;
+    background-color: #fff;
+}
+
+.logo{
+    height:150px;
+}
+.list{
+    color:black;
+    font-size:21px;
+    margin-left:90px;
+    justify-content:space-between;
+}
+.icons{
+    font-size:23px;
+    margin-right:90px;
+    color: rgb(99, 99, 99);
+    /* padding: 0 100px; */
+    /* margin-right:300px;  */
+}
+ .icons i{
+    cursor:pointer;
+    padding:0 15px;
+}
+ .change{
+    width:180px;
+    height:50px;
+    border-radius:30px;
+    font-size:20px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #5BBAB6;
+    border: none;
+    color: white;
+    margin-right:130px;
+
+ }  
+ .change:hover{
+    background-color: #5bdbd5;
+ }
+ /* ----------------------------------------------------section2-------------------------------------------- */
+.s2{
+    background-image:url("./images/bakery4-5-1200x800.jpg");
+    background-repeat: no-repeat;
+    width:100%;
+    height:800px;
+} 
+#heading{
+    display: flex;
+    font-family: "DM Sans", sans-serif;
+    font-weight:bolder;
+    font-size: 70px;
+    color:rgb(75, 67, 66);
+    justify-content: center;
+    margin-top:100px;
+}
+#img1{
+    height:200px;
+    width:280px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:40px;
+}
+#img2{
+    height:200px;
+    width:280px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:45px;
+}
+#img3{
+    height:200px;
+    width:280px;
+    border-radius:20px;
+    margin-top:40px;
+    margin-left:50px;
+}
+.col-4>h2{
+    color: rgb(99, 99, 99);
+    font-size:30px;
+    text-align: center;
+    margin-top:25px;
+}
+
+/* -----------------------------------------section3-------------------------------------------------  */
+.section3{
+    background-image: url("./images/bakery12-3-1200x800.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:850px;
+    }
+.image3-overlay{
+    height:850px;
+background-color:rgba(59, 172, 187, 0.6);
+}
+.box{
+    position:relative;
+    top:130px;
+    width:70%;
+    height:600px;
+    border: 3px solid white;
+    margin-left:250px;
+    border-radius:20px;
+}
+#cake-icon{
+    display: flex;
+    justify-content: center;
+    color:#ffff;
+    font-size:80px;
+    padding-top: 90px;
+}
+#heading-3{
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    font-weight: 600px;
+    color: #ffff;
+    font-family: "DM Sans", sans-serif;
+    font-size:45px;
+    font-weight:600;
+}
+#s3-p1{
+    color: #ffff;
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    font-size:20px;
+}
+#button1{
+    display: block;
+    margin:0 auto;
+    margin-top:50px;
+    color: #ffff;
+    background-color:transparent;
+    border:3px solid #fff;
+    height:65px;
+    width:230px;
+    border-radius:35px;
+    font-size:25px;
+}
+#button1:hover{
+    background-color: #ffff;
+    color: grey;
+    transition:0.3s;
+}
+/* -----------------------------------------section4-------------------------------------------------  */
+.section4{
+    background-color:#fff;
+    width: 100%;
+    height:850px;
+}
+#cake-icon1{
+    display: flex;
+    justify-content: center;
+    font-size:90px;
+    color:#ED90A3;
+    margin-top:100px;
+}
+#heading-1{
+    display: flex;
+    font-family: "DM Sans", sans-serif;
+    font-weight:bolder;
+    font-size: 50px;
+    color:rgb(75, 67, 66);
+    justify-content: center;
+    margin-top:50px;
+}
+.s4-1{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:-40px;
+}
+.s4-2{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:-5px;
+}
+.s4-3{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:30px;
+}
+.s4-4{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:70px;
+}
+
+.s4-5{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:-40px;
+}
+.s4-6{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:-5px;
+}
+.s4-7{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:30px;
+}
+.s4-8{
+    width:340px;
+    height:240px;
+    border-radius:20px;
+    margin-left:70px;
+}
